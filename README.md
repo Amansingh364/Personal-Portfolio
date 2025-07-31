@@ -1,26 +1,43 @@
-# 💼 Aman Singh | Portfolio Website
+# 🚀 Personal Portfolio Website - Aman Singh
 
-Welcome to my personal portfolio website! 👋  
-This site showcases who I am, what I do, my skills, projects, and how to get in touch with me.
-
-## 🚀 Live Site
-
-🔗 Visit here: (https://github.com/Amansingh364)
-_(Replace with your actual GitHub Pages link)
----
-
-## 🧠 About Me
-
-Hi! I'm **Aman Singh**, a passionate Frontend Developer, curious learner, and problem solver. I love building engaging web experiences using HTML, CSS, JavaScript, and more.
+Welcome to my personal developer portfolio! This is a fully responsive, animated portfolio built using **HTML**, **Tailwind CSS**, and **JavaScript**. It showcases my skills, projects, certifications, work experience, and includes an interactive Snake game just for fun!
 
 ---
 
-## 📂 Project Structure
+## 🌟 Live Preview
+
+> 📎 [View Live Site](https://your-live-link.com) *(Replace with your deployment link)*
+
+---
+
+## 📌 Features
+
+- 🔥 Responsive design using **Tailwind CSS**
+- 🎨 Dark-themed animated background
+- 🧑‍💻 Sections: About, Skills, Experience, Projects, Certifications, Contact
+- 🐍 Built-in **Snake Game** using HTML Canvas
+- 📄 Resume download button
+- 🔗 Social media links (GitHub, LinkedIn, Email)
+- 🎓 Educational background & certifications timeline
+
+---
+
+## 🛠️ Technologies Used
+
+| Frontend     | Tools / Frameworks |
+|--------------|--------------------|
+| HTML         | Tailwind CSS, Google Fonts |
+| CSS Styling  | Glassmorphism, Gradient animations |
+| JavaScript   | DOM, Canvas API (Snake Game) |
+| Icons        | Font Awesome |
+
+---
+
+## 📂 Folder Structure
 
 ```bash
-portfolio/
-│
-├── index.html          # Main HTML file
-├── style.css           # CSS styles
-├── images/             # Profile picture and other images
-├── README.md           # This readme file
+Personal-Portfolio/
+├── index.html         # Main HTML file
+├── profile2.jpg       # Profile image (used in Hero section)
+├── README.md          # Project overview
+└── (Optional Assets)  # Any images, resume PDF, or JS files
