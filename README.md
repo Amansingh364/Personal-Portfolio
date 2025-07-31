@@ -6,7 +6,7 @@ Welcome to my personal developer portfolio! This is a fully responsive, animated
 
 ## 🌟 Live Preview
 
-> 📎 [View Live Site](https://your-live-link.com) *(Replace with your deployment link)*
+> 📎 [View Live Site](https://amanportfolio364.netlify.app/)
 
 ---
 
